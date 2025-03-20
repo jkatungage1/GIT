@@ -4,9 +4,7 @@
             "name": "windows-gcc-x64",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:\\Users\\Muken\\Documents\\EfreiS2\\GIT\\Systeme_exploitation\\gestion_matrice\\include",
-                "../../**",
-                "/./**"
+                "C:\\Users\\Muken\\Documents\\EfreiS2\\GIT\\Systeme_exploitation\\gestion_matrice\\**"
             ],
             "defines": [
                 "_DEBUG",
