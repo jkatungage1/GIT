@@ -1,0 +1,8 @@
+c:\Users\Muken\Documents\EfreiS2\GIT\Architecture_des_ordinateurs\TD1_RISCV\exo1.temp.asm(1) : Error A2082: Must be in segment block
+c:\Users\Muken\Documents\EfreiS2\GIT\Architecture_des_ordinateurs\TD1_RISCV\exo1.temp.asm(3) : Error A2209: Syntax error: li
+c:\Users\Muken\Documents\EfreiS2\GIT\Architecture_des_ordinateurs\TD1_RISCV\exo1.temp.asm(4) : Error A2209: Syntax error: li
+c:\Users\Muken\Documents\EfreiS2\GIT\Architecture_des_ordinateurs\TD1_RISCV\exo1.temp.asm(5) : Error A2209: Syntax error: li
+c:\Users\Muken\Documents\EfreiS2\GIT\Architecture_des_ordinateurs\TD1_RISCV\exo1.temp.asm(8) : Error A2209: Syntax error: mv
+c:\Users\Muken\Documents\EfreiS2\GIT\Architecture_des_ordinateurs\TD1_RISCV\exo1.temp.asm(9) : Error A2209: Syntax error: mv
+c:\Users\Muken\Documents\EfreiS2\GIT\Architecture_des_ordinateurs\TD1_RISCV\exo1.temp.asm(10) : Error A2209: Syntax error: mv
+c:\Users\Muken\Documents\EfreiS2\GIT\Architecture_des_ordinateurs\TD1_RISCV\exo1.temp.asm(10) : Error A2099: END directive required at end of file
