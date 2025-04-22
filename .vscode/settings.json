@@ -7,7 +7,11 @@
     "stdio.h": "c",
     "unistd.h": "c",
     "stdlib.h": "c",
-    "semaphore.h": "c"
+    "semaphore.h": "c",
+    "string.h": "c",
+    "stdbool.h": "c",
+    "types.h": "c",
+    "time.h": "c"
   },
   "C_Cpp_Runner.msvcBatchPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/Build/vcvarsall.bat",
   "C_Cpp_Runner.cCompilerPath": "gcc",
