@@ -39,9 +39,9 @@ app.get('/AAPL-rates-5y.json', (req, res) => {
 
 
 // Démarrage du serveur !!
-/**
- * 
- * app.listen ...
- * 
- */
+
+ app.listen(port, () => {
+  console.log(`Serveur démarré sur http://localhost:${port}`);
+});
+
 
